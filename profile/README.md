@@ -4,12 +4,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web developer & designer
 ------------------------
 
-With over two years of focused study in web development, I've become adept at creating polished CMS dashboards and professional portfolio/business websites. I'm highly skilled in HTML, CSS, and JS, and I often utilize user-friendly frameworks like VueJS and React. For cloud services, Firebase is my preferred choice, guaranteeing seamless integration and top-notch performance across all my projects.
+With over three years of focused study in web development, I've become adept at creating polished CMS dashboards and professional portfolio/business websites. I'm highly skilled in HTML, CSS, and JS, and I often utilize user-friendly frameworks like VueJS and React. For cloud services, Firebase is my preferred choice, guaranteeing seamless integration and top-notch performance across all my projects.
 
 * 🌍  I'm based in Netherlands
 * 🖥️  See my portfolio at [This is my own website🚀](http://lukevdbroek.nl)
 * ✉️  You can contact me at [contact@lukevdbroek.nl](mailto:contact@lukevdbroek.nl)
-* 🤝  I'm open to collaborating on Intresting projects!
+* 🤝  I'm open to collaborate on Intresting projects!
 
 ### Skills
 
